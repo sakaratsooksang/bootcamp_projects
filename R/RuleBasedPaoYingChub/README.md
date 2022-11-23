@@ -1,2 +1,1 @@
-
-<iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@arpohyung/restaurantDatabasesakarat?embed=true"></iframe>
+https://replit.com/@arpohyung/Batch06Chatbotpizza
